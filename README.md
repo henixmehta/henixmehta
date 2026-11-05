@@ -62,13 +62,11 @@ I'm a **Full Stack Developer and API Architect** based in **Surat, Gujarat, Indi
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏘️ **Society-360** | Multi-tenant housing society management SaaS with society and unit context-switching for multi-unit, multi-society users | Laravel 12, React 19, Inertia.js |
-| 🏢 [**ERP-PHP**](https://github.com/henixmehta/ERP-PHP) | ERP system built with PHP | PHP, CSS |
-| 📋 [**H-RMS**](https://github.com/henixmehta/H-RMS) | Management system project | — |
-| 👥 [**EMS-java**](https://github.com/henixmehta/EMS-java) | Employee management system | Java, CSS |
-| 🛠️ [**MSA-JAVA**](https://github.com/henixmehta/MSA-JAVA) | Java application | Java |
-| 🏠 [**ResidencyManagementSystem**](https://github.com/henixmehta/ResidencyManagementSystem) | Residency management web application | HTML |
-| 📚 [**BookMaster**](https://github.com/henixmehta/BookMaster) | Book management application | Java |
+| 🤖 [**Altru--Coder**](https://github.com/henixmehta/Altru--Coder) | Open-source AI coding agent delivered as a VS Code extension, CLI, local agent server and TypeScript SDK. My fork of [kartkbhalodiya/Altru--Coder](https://github.com/kartkbhalodiya/Altru--Coder) | TypeScript, Bun, VS Code |
+| 🗓️ [**meetingflow-pro**](https://github.com/henixmehta/meetingflow-pro) | Meeting workflow management project | — |
+| 🧩 [**MSA-JAVA**](https://github.com/henixmehta/MSA-JAVA) | Microservices architecture practice projects with JWT authentication and Docker | Java, Payara Micro, MicroProfile, JWT, Docker |
+| ✨ [**novaluxe-theme**](https://github.com/henixmehta/novaluxe-theme) | Premium theme project | — |
+| 🏠 [**ResidencyManagementSystem**](https://github.com/henixmehta/ResidencyManagementSystem) | Residency management application with 100+ commits | Visual Studio solution (RMSApp) |
 
 ---
 
@@ -76,10 +74,12 @@ I'm a **Full Stack Developer and API Architect** based in **Surat, Gujarat, Indi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=henixmehta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henixmehta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=henixmehta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henixmehta&theme=tokyonight" alt="GitHub Stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henixmehta&theme=tokyonight" alt="Top Languages" />
+
+
 
 </div>
 
